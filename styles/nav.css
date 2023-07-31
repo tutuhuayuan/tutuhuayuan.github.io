@@ -45,7 +45,7 @@ nav ul {
     padding: 10px 0;
 }
 
-.nav a.current, .nav a:hover {
+.nav a:hover {
     color: green;
     font-weight: bold;
 }
