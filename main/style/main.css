@@ -9,10 +9,14 @@
     padding: 0;
 }
 
-.Bookings {
+.menu {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     height: 100vh;
+}
+
+.menu a {
+    padding: 10px 10px;
 }
